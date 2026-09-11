@@ -1,4 +1,4 @@
-Sales Forecasting & Demand Prediction Analysis
+**Sales Forecasting & Demand Prediction Analysis**
 
 An end-to-end Data Analytics and Business Intelligence project focused on analyzing historical retail sales, identifying sales trends and seasonal patterns, and forecasting future sales.
 
