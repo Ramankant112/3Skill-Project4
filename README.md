@@ -40,7 +40,7 @@ The dashboard shows:
 - Sales by Category
 - Region, Category, Sales Mode, Customer Type and Product filters
 
-![Sales Forecasting Dashboard](Dashboard_Img.png)
+![Sales Forecasting Dashboard](Dashoard_Img.png)
 
 ## Key Insights
 
