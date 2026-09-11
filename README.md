@@ -1,121 +1,88 @@
-***Sales Forecasting & Demand Prediction Analysis***
+# Sales Forecasting & Demand Prediction Analysis
 
-An end-to-end Data Analytics and Business Intelligence project focused on analyzing historical retail sales, identifying sales trends and seasonal patterns, and forecasting future sales.
+## About the Project
 
-The project was created to help a retail business improve sales planning, inventory management, and demand planning.
+This is a Data Analytics project based on retail sales data.
 
-📌 Project Overview
+The main purpose of this project is to understand sales performance, find sales trends and seasonal patterns, and predict future sales. The analysis can help a business improve inventory planning and make better decisions.
 
-The main objective of this project is to understand past sales performance and use the insights to support future business decisions.
+## Tools Used
 
-The analysis includes:
+- Microsoft Excel
+- Power BI
+- DAX
 
-Data cleaning and preprocessing
-Daily, weekly and monthly sales analysis
-Product and category-wise sales analysis
-Peak sales period identification
-Seasonal pattern analysis
-Sales trend analysis
-Basic sales forecasting
-Interactive Power BI dashboard
-Business insights and recommendations
+## What I Did in This Project
 
-The project follows the requirements of the final project, which asks for historical sales analysis, seasonal patterns, trend-based forecasting and an interactive dashboard.
+- Cleaned and prepared the sales data
+- Checked sales performance over time
+- Analyzed weekly and monthly sales trends
+- Identified peak sales months
+- Analyzed product and category performance
+- Studied seasonal sales patterns
+- Created a basic sales forecast
+- Built an interactive Power BI dashboard
+- Added slicers for interactive analysis
+- Created business insights and recommendations
 
-🛠️ Tools & Technologies
-Microsoft Excel – Data cleaning and preprocessing
-Power BI – Data visualization and interactive dashboard
-DAX – Measures and calculations
-CSV / Excel – Dataset handling
-📂 Dataset
+## Dashboard
 
-The project uses a retail sales dataset containing transaction-level sales information.
+The dashboard shows:
 
-The dataset was cleaned and prepared before performing analysis.
+- Total Sales
+- Total Quantity
+- Total Profit
+- Profit Margin
+- Weekly Sales Trend
+- Top 5 Products by Sales
+- Peak Sales Periods
+- Sales Forecast for the Next 3 Months
+- Sales by Category
+- Region, Category, Sales Mode, Customer Type and Product filters
 
-Key analysis areas include:
+![Sales Forecasting Dashboard](Dashboard.png)
 
-Sales
-Quantity
-Profit
-Product
-Category
-Customer Type
-Sales Mode
-Region
-Order Date
-📊 Dashboard
+## Key Insights
 
-The Power BI dashboard provides an interactive view of sales performance and forecasting.
+- November had the highest sales.
+- October and December were also strong sales months.
+- Sales were higher during the end of the year.
+- January and February had comparatively lower sales.
+- Overall sales showed an increasing trend.
+- Top-selling products are expected to have good future demand.
 
-Dashboard Includes
-Total Sales KPI
-Total Quantity KPI
-Total Profit KPI
-Profit Margin KPI
-Weekly Sales Trend
-Top 5 Products by Sales
-Peak Sales Periods
-Sales Forecast – Next 3 Months
-Sales by Category
-Region Slicer
-Category Slicer
-Sales Mode Slicer
-Customer Type Slicer
-Product Slicer
-Order Date Filter
-Dashboard Preview
+## Business Recommendations
 
-🔍 Key Business Insights
+- Keep more inventory before October, November and December.
+- Focus more on products with high sales.
+- Use sales forecasting for inventory planning.
+- Monitor sales performance regularly.
+- Avoid keeping too much stock of low-demand products.
 
-Based on the analysis:
+## Project Outcome
 
-November has the highest sales, followed by October and December.
-Sales show a clear seasonal pattern, with stronger sales during the end of the year.
-Sales are comparatively lower around January and February.
-The overall sales trend is increasing, although there are fluctuations over time.
-Top-selling products such as Women's Kurti, USB-C Charger, Wireless products and Water Bottle are expected to have better future demand.
-💡 Business Recommendations
+This project helped me improve my practical skills in:
 
-Based on the analysis, the company can:
+- Data Cleaning
+- Excel
+- Power BI
+- DAX
+- Data Visualization
+- Sales Analysis
+- Trend Analysis
+- Forecasting
+- Business Intelligence
 
-Increase inventory before peak months such as October, November and December.
-Focus more on top-selling products.
-Use sales forecasting for inventory planning.
-Monitor sales trends weekly or monthly.
-Reduce excess stock for low-demand products.
-🎯 Project Outcome
+## Project Files
 
-This project demonstrates how data analytics and Power BI can be used to:
+- `retail_sales_raw_data.csv` – Raw dataset
+- `retail_sales_clean_data.xlsx` – Cleaned dataset
+- `Sales_Forecasting_Dashboard.pbix` – Power BI dashboard
+- `Dashboard.png` – Dashboard screenshot
 
-Understand sales performance
-Identify seasonal demand
-Find top-performing products
-Track business trends
-Forecast future sales
-Support inventory and demand planning
-📁 Project Files
-Sales-Forecasting-Demand-Prediction/
-│
-├── Dataset/
-│   ├── retail_sales_raw_data.csv
-│   └── retail_sales_clean_data.xlsx
-│
-├── PowerBI/
-│   └── Sales_Forecasting_Dashboard.pbix
-│
-├── images/
-│   └── Dashboard.png
-│
-└── README.md
-👨‍💻 Skills Demonstrated
+## Project Title
 
-Data Cleaning | Excel | Power BI | DAX | Data Visualization | Sales Analysis | Trend Analysis | Forecasting | Business Intelligence
+**Sales Forecasting & Demand Prediction Analysis**
 
-🔗 Project
-
-Project Title: Sales Forecasting & Demand Prediction Analysis
-Role: Data Analyst
-Tools: Excel, Power BI, DAX
-Focus: Sales Analysis, Forecasting & Business Intelligence
-
+**Role:** Data Analyst  
+**Tools:** Excel, Power BI, DAX
